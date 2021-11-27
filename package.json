@@ -1,0 +1,17 @@
+{
+  "name": "vaccertdec",
+  "version": "1.0.0",
+  "description": "This package decodes the EU Covid-19 vaccine certificate, as specified by the EU.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "jsqr": "^1.4.0",
+    "base45": "^2.0.1",
+    "cbor": "^8.1.0"
+  },
+  "author": "Maxim Grigoriev",
+  "license": "ISC"
+}
